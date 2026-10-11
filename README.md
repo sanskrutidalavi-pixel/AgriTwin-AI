@@ -54,68 +54,50 @@ AgriTwin AI follows a modular Flutter-based architecture, separating the present
 The current prototype uses sample agricultural datasets and predefined recommendation logic to demonstrate its decision-support capabilities.
 
 Future enhancements include real-time market data integration, trained machine learning models and dynamic profit optimization.
-![AgriTwin AI System Architecture](docs/system-architecture.png.png)
+<p align="center">
+  <img src="docs/system-architecture.png.png" width="900" alt="AgriTwin AI System Architecture">
+</p>
 
-## 📸 Application Screenshots
 
 
-## 📸 Application Screenshots
 
-### 1. Role Selection
-![Role Selection](Screenshots/role-selection.png.png)
 
-### 2. Farmer Dashboard
-![Farmer Dashboard](Screenshots/farmer-dashboard.png.png)
+<h2>📸 Application Screenshots</h2>
 
-### 3. Market Comparison
-![Market Comparison](Screenshots/market-comparison.png.png)
+<h3>Role Selection & Farmer Dashboard</h3>
 
-### 4. AI-Powered Recommendation (Prototype)
-## 📸 Application Screenshots
+<p align="center">
+  <img src="Screenshots/role-selection.png.png" width="45%" alt="Role Selection">
+  <img src="Screenshots/farmer-dashboard.png.png" width="45%" alt="Farmer Dashboard">
+</p>
 
-### 1. Role Selection
-![Role Selection](Screenshots/role-selection.png.png)
+<h3>Market Comparison & AI Recommendation</h3>
 
-### 2. Farmer Dashboard
-![Farmer Dashboard](Screenshots/farmer-dashboard.png.png)
+<p align="center">
+  <img src="Screenshots/market-comparison.png.png" width="45%" alt="Market Comparison">
+  <img src="Screenshots/ai-recommendation.png.png" width="45%" alt="AI Recommendation">
+</p>
 
-### 3. Market Comparison
-![Market Comparison](Screenshots/market-comparison.png.png)
+<h3>Scenario Analysis & Storage Advisory</h3>
 
-### 4. AI-Powered Recommendation (Prototype)
-![AI Recommendation](Screenshots/ai-recommendation.png.png)
+<p align="center">
+  <img src="Screenshots/scenario-analysis.png.png" width="45%" alt="Scenario Analysis">
+  <img src="Screenshots/storage-advisory.png.png" width="45%" alt="Storage Advisory">
+</p>
 
-### 5. Recommendation Explanation
-![Recommendation Explanation](Screenshots/recommendation-explanation.png.png)
+<h3>Buyer Marketplace & Logistics Management</h3>
 
-### 6. Scenario Analysis
-![Scenario Analysis](Screenshots/scenario-analysis.png.png)
+<p align="center">
+  <img src="Screenshots/buyer-marketplace.png.png" width="45%" alt="Buyer Marketplace">
+  <img src="Screenshots/logistics-management.png.png" width="45%" alt="Logistics Management">
+</p>
 
-### 7. Storage Advisory
-![Storage Advisory](Screenshots/storage-advisory.png.png)
+<h3>Recommendation Explanation</h3>
 
-### 8. Buyer Marketplace
-![Buyer Marketplace](Screenshots/buyer-marketplace.png.png)
+<p align="center">
+  <img src="Screenshots/recommendation-explanation.png.png" width="65%" alt="Recommendation Explanation">
+</p>
 
-### 9. Logistics Management
-![Logistics Management](Screenshots/logistics-management.png.png)
-
-![AI Recommendation](Screenshots/ai-recommendation.png.png)
-
-### 5. Recommendation Explanation
-![Recommendation Explanation](Screenshots/recommendation-explanation.png.png)
-
-### 6. Scenario Analysis
-![Scenario Analysis](Screenshots/scenario-analysis.png.png)
-
-### 7. Storage Advisory
-![Storage Advisory](Screenshots/storage-advisory.png.png)
-
-### 8. Buyer Marketplace
-![Buyer Marketplace](Screenshots/buyer-marketplace.png.png)
-
-### 9. Logistics Management
-![Logistics Management](Screenshots/logistics-management.png.png)
  
 
 ## 🚀 Getting Started
