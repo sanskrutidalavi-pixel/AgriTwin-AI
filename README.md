@@ -49,30 +49,45 @@ AgriTwin AI is a decision-support platform that helps farmers evaluate different
 
 ## 🏗️ System Architecture
 
-The proposed decision-support workflow:
+AgriTwin AI follows a modular Flutter-based architecture, separating the presentation layer, business logic, data management and hosting services.
 
-```text
-Farmer Inputs
-     |
-     v
-Market & Agricultural Data
-     |
-     v
-AI-Based Analysis
-     |
-     v
-Profit & Scenario Simulation
-     |
-     v
-Selling Recommendations
-     |
-     v
-Farmer Decision
-```
+The current prototype uses sample agricultural datasets and predefined recommendation logic to demonstrate its decision-support capabilities.
+
+Future enhancements include real-time market data integration, trained machine learning models and dynamic profit optimization.
+![AgriTwin AI System Architecture](docs/system-architecture.png)
 
 ## 📸 Application Screenshots
 
-Screenshots of the application's major features will be added here.
+
+## 📸 Application Screenshots
+
+### 1. Role Selection
+![Role Selection](Screenshots/role-selection.png)
+
+### 2. Farmer Dashboard
+![Farmer Dashboard](Screenshots/farmer-dashboard.png)
+
+### 3. Market Comparison
+![Market Comparison](Screenshots/market-comparison.png)
+
+### 4. AI-Powered Recommendation (Prototype)
+![AI Recommendation](Screenshots/ai-recommendation.png)
+
+### 5. Recommendation Explanation
+![Recommendation Explanation](Screenshots/recommendation-explanation.png)
+
+### 6. Scenario Analysis
+![Scenario Analysis](Screenshots/scenario-analysis.png)
+
+### 7. Storage Advisory
+![Storage Advisory](Screenshots/storage-advisory.png)
+
+### 8. Buyer Marketplace
+![Buyer Marketplace](Screenshots/buyer-marketplace.png)
+
+### 9. Logistics Management
+![Logistics Management](Screenshots/logistics-management.png)
+ 
 
 ## 🚀 Getting Started
 
