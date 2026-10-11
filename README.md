@@ -95,7 +95,7 @@ Future enhancements include real-time market data integration, trained machine l
 <h3>Recommendation Explanation</h3>
 
 <p align="center">
-  <img src="Screenshots/recommendation-explanation.png.png" width="65%" alt="Recommendation Explanation">
+  <img src="Screenshots/reason.png.png" width="65%" alt="Recommendation Explanation">
 </p>
 
  
